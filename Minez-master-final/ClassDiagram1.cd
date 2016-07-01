@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EnemyProjectile">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAABAAAAAAAEAARAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_scripts\EnemyProjectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyShooting">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIACIABAhAIEAIAQAAAAAAAAABQACAQQIAAEA=</HashCode>
+      <FileName>Assets\_scripts\EnemyShooting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemySpawner">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABBAAAACAgAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\_scripts\EnemySpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KillPlayer">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_scripts\KillPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuScript">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAACACAAAggAAAAAAAAAAAAAQAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\_scripts\MenuScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MineMovement">
+    <Position X="12.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAACAAAACAAAAAAgAAAAAAAQAAAAAAAAIAAEA=</HashCode>
+      <FileName>Assets\_scripts\MineMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovementPlayer">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYgAAIgAiAAAYAUAACBAEABBAAAAUkgQkAAgAAAYAk=</HashCode>
+      <FileName>Assets\_scripts\MovementPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PickUps">
+    <Position X="12.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAACAAAAAAAAAAAAAQABAAAAAAAA=</HashCode>
+      <FileName>Assets\_scripts\PickUps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerHealth">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAACAAAEAAAAAAAAhAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_scripts\PlayerHealth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerShooting">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACIABABAAAAAARAAAAAAAAAAAAgAQAIAAAA=</HashCode>
+      <FileName>Assets\_scripts\PlayerShooting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projectile">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAABAAAAAAAAAARAgAAAAAQAA=</HashCode>
+      <FileName>Assets\_scripts\Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RandomMovement">
+    <Position X="14.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAACAAAACAAAAAAgAAAAAAAQABAAAEAAIAAEA=</HashCode>
+      <FileName>Assets\_scripts\RandomMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="randomSpawn">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAACAAAAAAAAAAAgABAAAAAAAAIAAAAAIAAAA=</HashCode>
+      <FileName>Assets\_scripts\randomSpawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreManager">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAADAAAQgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_scripts\ScoreManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
